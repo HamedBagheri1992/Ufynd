@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Ufynd.Task2.Infrastructure": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:14231;http://localhost:14234"
+    }
+  }
+}
